@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![counter](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
 <!--
 **Surekha-honey/Surekha-honey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
