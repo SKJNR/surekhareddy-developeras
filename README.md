@@ -3,7 +3,7 @@
 ![counter](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
 
 
-- 🔭 I’m currently working as a Machine Learning and Data Science Intern
+- 🔭 I’m currently working as a Machine Learning and Data Science Intern and open to work 
 - 🌱 I’m currently learning Advanced techniques in Deep Learning..
 - 👯 I’m looking to collaborate on more projects related to AI in Agriculture
 - 🤔 I’m looking for help with who have good knowledge at Full stack developers and front end developer
