@@ -7,8 +7,10 @@
 
 <br>
 Hi, I'm Surekha Ramireddy, a Data Scientist 🚀 from India, currently, I'm a Data Science and Machine Learning intern 🙍🏽‍♂️ @Flip Robo Technologies, Freelancer 👨🏽‍💻 @Upwork,@Workana
-        <img align="right" alt="GIF" src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif"> <br>
-## Talking about Personal Stuffs:
+        <img align="right" alt="GIF" src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif"><br>
+        
+        
+**Talking about Personal Stuffs:**
  
 
 
