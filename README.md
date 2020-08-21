@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![counter](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 
 
 - 🔭 I’m currently working as a Machine Learning and Data Science Intern and open to work 
