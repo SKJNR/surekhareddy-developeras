@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there , I'm surekha 👋
+ <a href="https://www.linkedin.com/in/surekha-ramireddy-60a46716b/">
+  <img align="left" alt="Surekha Reddy's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 ![counter](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
 [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
@@ -9,7 +12,6 @@
 - 👯 I’m looking to collaborate on more projects related to AI in Agriculture .
 - 🤔 I’m looking for help to work  more projects related to AI in Agriculture.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/surekha-ramireddy-60a46716b/) <br>
-
 
 
 ![Surekha's github stats](https://github-readme-stats.vercel.app/api?username=Surekha-honey&show_icons=true&theme=radical&count_private=true)
