@@ -21,7 +21,7 @@ Hi, I'm Surekha Ramireddy, a Data Scientist 🚀 from India, currently, I'm a Da
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/surekha-ramireddy-60a46716b/) 
 - 📫 Reach me out here surekhasurekha1679@gmail.com <br>
 
-**Languages and Tools:**
+**Languages and Tools:** <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
