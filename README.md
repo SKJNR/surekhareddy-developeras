@@ -4,11 +4,12 @@
 [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 
 
-- 🔭 I’m currently working as a Machine Learning and Data Science Intern and open to work 
+- 🔭 I’m currently working as a Machine Learning and Data Science Intern from India and open to work 
 - 🌱 I’m currently learning Advanced techniques in Deep Learning..
-- 👯 I’m looking to collaborate on more projects related to AI in Agriculture
-- 🤔 I’m looking for help with who have good knowledge at Full stack developers and front end developer
-- 📫 How to reach me: https://www.linkedin.com/in/surekha-ramireddy-60a46716b/
+- 👯 I’m looking to collaborate on more projects related to AI in Agriculture .
+- 🤔 I’m looking for help to work on more projects related to AI in Agriculture.
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/surekha-ramireddy-60a46716b/)
+
 - Some of the Projects i had worked up to now :<br>
       - [Health Care Projects](https://heartdiseasesprediction.herokuapp.com/) :<br>
           - Simple Web Application to through which we can predict and which we can identify Cancer ,Heart Checkups ,Heart Failure all these diseases can be predicted using this application 
