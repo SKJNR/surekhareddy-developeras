@@ -7,13 +7,8 @@
 - 🔭 I’m currently working as a Machine Learning and Data Science Intern from India and open to work 
 - 🌱 I’m currently learning Advanced techniques in Deep Learning..
 - 👯 I’m looking to collaborate on more projects related to AI in Agriculture .
-- 🤔 I’m looking for help to work on more projects related to AI in Agriculture.
+- 🤔 I’m looking for help to work  more projects related to AI in Agriculture.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/surekha-ramireddy-60a46716b/)
-
-- Some of the Projects i had worked up to now :<br>
-      - [Health Care Projects](https://heartdiseasesprediction.herokuapp.com/) :<br>
-          - Simple Web Application to through which we can predict and which we can identify Cancer ,Heart Checkups ,Heart Failure all these diseases can be predicted using this application 
-          - For more details and for practical experience please visit this [URL](https://heartdiseasesprediction.herokuapp.com/) 
 ![Surekha's github stats](https://github-readme-stats.vercel.app/api?username=Surekha-honey&show_icons=true&theme=radical&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha-honey&layout=compact&theme=radical)](https://github.com/Surekha-honey/github-readme-stats)
 
 
