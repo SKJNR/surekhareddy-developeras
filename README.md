@@ -15,7 +15,7 @@
           - For more details and for practical experience please visit this [URL](https://heartdiseasesprediction.herokuapp.com/)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha-honey&layout=compact)](https://github.com/Surekha-honey/github-readme-stats)
-      
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha-honey)](https://github.com/Surekha-honey/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surekha-honey&repo=github-readme-stats)](https://github.com/Surekha-honey/github-readme-stats)   
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surekha-honey&repo=Time-series-Forecasts)](https://github.com/Surekha-honey/Time-series-Forecasts)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surekha-honey&repo=Restraunt-Food-Cost-Prediction)](https://github.com/Surekha-honey/Restraunt-food-cost-prediction)
