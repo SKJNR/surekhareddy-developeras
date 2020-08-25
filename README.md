@@ -9,8 +9,6 @@
 Hi, I'm [Surekha Ramireddy](https://github.com/Surekha-honey), a Data Scientist 🚀 from India, currently, 🔭 I'm working as a Data Science and Machine Learning intern 🙍🏽‍♂️ @Flip Robo Technologies, Freelancer 👨🏽‍💻 @Upwork and looking for new opportunities.
         <img align="right" alt="GIF" src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif"><br>
         
-[![](https://gitwar.herokuapp.com/badge?username=Surekha-honey&label=Surekha%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) <br>
-
 
 **Talking about Personal Stuffs:**
  
