@@ -9,7 +9,7 @@
 Hi, I'm [Surekha Ramireddy](https://github.com/Surekha-honey), a Data Scientist 🚀 from India, currently, 🔭 I'm working as a Data Science and Machine Learning intern 🙍🏽‍♂️ @Flip Robo Technologies, Freelancer 👨🏽‍💻 @Upwork and looking for new opportuities.
         <img align="right" alt="GIF" src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif"><br>
         
-[![](https://gitwar.herokuapp.com/badge?username=Surekha-honey&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) <br>
+[![](https://gitwar.herokuapp.com/badge?username=Surekha-honey&label=Surekha%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) <br>
 
 
 **Talking about Personal Stuffs:**
@@ -54,20 +54,20 @@ Hi, I'm [Surekha Ramireddy](https://github.com/Surekha-honey), a Data Scientist 
    </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+	    <td><a href="https://github.com/Surekha-honey/Diabetics-Prediction-System"><b>👨🏻‍💻 Diaetics Prediction</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Surekha-honey/Diabetics-Prediction-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Surekha-honey/Diabetics-Prediction-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Surekha-honey/Diabetics-Prediction-System?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Surekha-honey/Diabetics-Prediction-System?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/Surekha-honey/Diabetics-Prediction-System?style=flat-square"/></td> 
     </tr>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+	    <td><a href="https://github.com/Surekha-honey/Melanoma"><b>🐛 Melanoma Prediction</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Surekha-Honey/Melanoma?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Surekha-honey/Melanoma?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Surekha-honey/Melanoma?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Surekha-honey/Melanoma?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/Surekha-honey/Melanoma?style=flat-square"/></td>
     </tr>
     <tr>
 	    <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
