@@ -77,6 +77,14 @@ Hi, I'm [Surekha Ramireddy](https://github.com/Surekha-honey), a Data Scientist 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Surekha-honey/Heart-Disease-Prediction?style=flat-square"/></td>
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/Surekha-honey/Heart-Disease-Prediction?label=javascript&style=flat-square"/></td>
     </tr>
+    <tr>
+	    <td><a href="https://github.com/Surekha-honey/Face-Counting-"><b>💸 Face-Counting-</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Surekha-honey/Face-Counting-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Surekha-honey/Face-Counting-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Surekha-honey/Face-Counting-?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Surekha-honey/Face-Counting-?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/Surekha-honey/Face-Counting-?label=javascript&style=flat-square"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -86,9 +94,12 @@ Hi, I'm [Surekha Ramireddy](https://github.com/Surekha-honey), a Data Scientist 
 	
   <br />
    
-![Surekha's github stats](https://github-readme-stats.vercel.app/api?username=Surekha-honey&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha-honey&layout=compact&theme=radical)](https://github.com/Surekha-honey/github-readme-stats)
-
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surekha-honey&repo=Restraunt-Food-Cost-Prediction&theme=radical)](https://github.com/Surekha-honey/Restraunt-food-cost-prediction) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Surekha-honey&repo=Heart-Disease-Prediction&theme=radical)](https://github.com/Surekha-honey/Heart-Disease-Prediction)
+
+</details>
+
+![Surekha's github stats](https://github-readme-stats.vercel.app/api?username=Surekha-honey&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha-honey&layout=compact&theme=radical)](https://github.com/Surekha-honey/github-readme-stats)
+
