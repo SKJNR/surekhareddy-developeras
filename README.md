@@ -2,11 +2,14 @@
  <a href="https://www.linkedin.com/in/surekha-ramireddy-60a46716b/">
   <img align="left" alt="Surekha Reddy's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.kaggle.com/surekharamireddy">
+  <img align="middle" alt="Surekha Reddy's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
 
 <br>
-Hi, I'm [Surekha Ramireddy](https://github.com/Surekha-honey), a Data Scientist 🚀 from India, currently, 🔭 I'm working as a Data Science and Machine Learning intern 🙍🏽‍♂️ @Flip Robo Technologies, Freelancer 👨🏽‍💻 @Upwork and looking for new opportunities.
+Hi, I'm Surekha Ramireddy ,a Data Scientist 🚀 from India, currently, 🔭 I'm working as a Data Science and Machine Learning intern 🙍🏽‍♂️ @Flip Robo Technologies, Freelancer 👨🏽‍💻 @Upwork and looking for new opportunities.
         <img align="right" alt="GIF" src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif"><br>
         
 
