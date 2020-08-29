@@ -42,7 +42,7 @@ Hi, I'm Surekha Ramireddy ,a Data Scientist 🚀 from India, currently, 🔭 I'm
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>Open source projects:</b></summary>
+  <summary><b>Recently Completed Projects:</b></summary>
 
 <br />
 <table>
