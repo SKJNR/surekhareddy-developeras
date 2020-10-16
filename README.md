@@ -1,12 +1,18 @@
 ### Hi there  👋
+Where You can connect with me 
  <a href="https://www.linkedin.com/in/surekha-ramireddy-60a46716b/">
   <img align="left" alt="Surekha Reddy's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> <br>
+Where You can My Achievements 
 <a href="https://www.kaggle.com/surekharamireddy">
   <img align="middle" alt="Surekha Reddy's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
+</a> <br>
 
-
+<b>Won First Medal</b> in [Kaggle](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/overview) 'Pulmonary Fibrosis Progression Competition'
+## Now Going on Projects
+  1.[RSNA STR Pulmonary Embolism Detection](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection) <br>
+  2.[Mechanism Of Action Prediction ](https://www.kaggle.com/c/lish-moa) <br>
+  3.[RIIID Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction) <br>
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
