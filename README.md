@@ -1,9 +1,9 @@
 ### Hi there  👋
-Where You can connect with me 
+Where You can connect with me <br>
  <a href="https://www.linkedin.com/in/surekha-ramireddy-60a46716b/">
   <img align="left" alt="Surekha Reddy's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <br>
-Where You can My Achievements 
+Where You can see My Achievements and on going projects and Competitions <br>
 <a href="https://www.kaggle.com/surekharamireddy">
   <img align="middle" alt="Surekha Reddy's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a> <br>
