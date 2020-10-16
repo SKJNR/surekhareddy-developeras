@@ -9,7 +9,7 @@ Where You can see My Achievements and on going projects and Competitions <br>
 </a> <br>
 
 <b>Won First Medal</b> in [Kaggle](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/overview) 'Pulmonary Fibrosis Progression Competition'
-## Now Going on Projects
+## Now On Going Projects
   1.[RSNA STR Pulmonary Embolism Detection](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection) <br>
   2.[Mechanism Of Action Prediction ](https://www.kaggle.com/c/lish-moa) <br>
   3.[RIIID Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction) <br>
