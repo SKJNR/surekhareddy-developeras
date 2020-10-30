@@ -1,9 +1,5 @@
 ### Hi there  👋
 
-Where You can see My Achievements and on going projects and Competitions <br>
-<a href="https://www.kaggle.com/surekharamireddy">
-  <img align="middle" alt="Surekha Reddy's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a> <br>
 
 <b>Won First Medal</b> in [Kaggle](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/overview) 'Pulmonary Fibrosis Progression Competition'
 ## Now On Going Projects
@@ -23,11 +19,10 @@ Hi, I'm Surekha Ramireddy ,a Data Scientist 🚀 from India, currently, 🔭 I'm
  
 
 
-- 🔭 I’m currently working as a Machine Learning and Data Science Intern from India and open to work 
+
 - 🌱 I’m currently learning Advanced techniques in Deep Learning..
 - 👯 I’m looking to collaborate on more projects related to AI in Agriculture .
 - 🤔 I’m looking for help to work  more projects related to AI in Agriculture.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/surekha-ramireddy-60a46716b/) 
 - 📫 Reach me out here surekhasurekha1679@gmail.com <br>
 
 **Languages and Tools:** <br>
