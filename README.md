@@ -22,7 +22,7 @@ Hi, I'm Surekha Ramireddy ,a Data Scientist 🚀 from India, currently, 🔭 I'm
 
 - 🌱 I’m currently learning Advanced techniques in Deep Learning..
 - 👯 I’m looking to collaborate on more projects related to AI in Agriculture .
-- 🤔 I’m looking for help to work  more projects related to AI in Agriculture.
+- 🤔 I’m looking to collaborate more open source projects related to AI in Agriculture.
 - 📫 Reach me out here surekhasurekha1679@gmail.com <br>
 
 **Languages and Tools:** <br>
