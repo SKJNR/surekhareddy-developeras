@@ -4,7 +4,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
 
 <br>
-Hi, I'm Surekha Ramireddy ,a Data Scientist 🚀 from India, currently, 🔭 I'm working as a Data Scientist , Freelancer 👨🏽‍💻 @Upwork .
+I'm Surekha Ramireddy ,a Data Scientist 🚀 from India, currently, 🔭 I'm working as a Data Scientist , Freelancer 👨🏽‍💻 @Upwork .
         <img align="right" alt="GIF" src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif"><br>
         
 
