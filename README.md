@@ -1,13 +1,6 @@
 ### Hi there  👋
 
 
-<b>Won First Medal</b> in [Kaggle](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/overview) 'Pulmonary Fibrosis Progression Competition'
-## Now On Going Projects
-  1.[RSNA STR Pulmonary Embolism Detection](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection) <br>
-  2.[Mechanism Of Action Prediction ](https://www.kaggle.com/c/lish-moa) <br>
-  3.[RIIID Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction) <br>
-
-
 ![Visitors](https://komarev.com/ghpvc/?username=surekha-honey&color=orange)
 
 <br>
@@ -15,6 +8,7 @@ Hi, I'm Surekha Ramireddy ,a Data Scientist 🚀 from India, currently, 🔭 I'm
         <img align="right" alt="GIF" src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif"><br>
         
 
+<b>Won First Medal</b> in [Kaggle](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/overview) 'Pulmonary Fibrosis Progression Competition'
 **Talking about Personal Stuffs:**
  
 
